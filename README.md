@@ -1,7 +1,7 @@
 ## Allex Lemos
 Born in Ipiaú/BA, actually living in Aracaju/SE.
 
-## 📚Formação
+## 📚Academic Education
 Currently studying Computer Science at [UNIVERSIDADE FEDERAL DE SERGIPE](https://www.ufs.br)
 
 ## 💻Skills
