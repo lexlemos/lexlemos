@@ -46,7 +46,7 @@
 
 ## 🧠 Curiosidades
 
-- 🌱 Atualmente aprendendo **Next.js** e aprimorando habilidades em **UI/UX Design**
+- 🌱 Atualmente aprendendo **React.js** e aprimorando habilidades em **UI/UX Design**
 - 🚀 Interesse em projetos open source e iniciativas que transformem realidades com tecnologia
 
 
