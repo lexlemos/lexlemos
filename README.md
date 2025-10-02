@@ -28,7 +28,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lexlemos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lexlemos&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexlemos&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
 </p>
 
 
@@ -46,10 +50,7 @@
 
 ## 🧠 Curiosidades
 
-- 🌱 Atualmente aprendendo **React.js** e aprimorando habilidades em **UI/UX Design**
+- 🌱 Atualmente  aprimorando habilidades em **React.js** 
 - 🚀 Interesse em projetos open source e iniciativas que transformem realidades com tecnologia
 
-
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=30A3DC&height=200&section=footer"/>
 
