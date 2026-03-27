@@ -21,18 +21,22 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexlemos&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexlemos&layout=compact&theme=dark" alt="Linguagens mais usadas"/>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-stats-ten-nu.vercel.app/api?username=lexlemos&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" height="195px"/>
+      </td>
+      <td>
+        <img src="https://github-stats-ten-nu.vercel.app/api/top-langs/?username=lexlemos&layout=compact&theme=dark&langs_count=8" alt="Linguagens mais usadas" height="195px"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
@@ -50,7 +54,6 @@
 
 ## 🧠 Curiosidades
 
-- 🌱 Atualmente  aprimorando habilidades em **React.js** 
 - 🚀 Interesse em projetos open source e iniciativas que transformem realidades com tecnologia
 
 
