@@ -6,13 +6,13 @@
 </p>
 
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
-- 🎓 **Bacharelado em Ciência da Computação** - Universidade Federal de Sergipe
-- 💡 **Project Advisor** na Innovation Hub — Liga Acadêmica de Empreendedorismo e Inovação
+-  **Bacharelado em Ciência da Computação** - Universidade Federal de Sergipe
+-  **Project Advisor** na Innovation Hub — Liga Acadêmica de Empreendedorismo e Inovação
 
 
-## 📊 Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <table align="center">
@@ -28,7 +28,7 @@
 </p>
 
 
-## 🌐 Onde me encontrar
+##  Onde me encontrar
 
 <p align="left">
   <a href="https://discord.com/channels/perpetuo12/" target="_blank">
@@ -40,8 +40,8 @@
 </p>
 
 
-## 🧠 Curiosidades
+##  Curiosidades
 
-- 🚀 Interesse em projetos open source e iniciativas que transformem realidades com tecnologia
+- Interesse em projetos open source e iniciativas que transformem realidades com tecnologia
 
 
